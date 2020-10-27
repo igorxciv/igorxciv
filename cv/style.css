@@ -1,0 +1,21 @@
+:root {
+  --font-light-weight: 200;
+  --font-regular-weight: 400;
+}
+
+.page {
+  font-family: 'Nunito', sans-serif;
+}
+
+.page__body {
+  margin: 0;
+}
+
+.header {
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+.title__surname {
+  font-weight: var(--font-light-weight);
+}
