@@ -27,5 +27,6 @@ Outside of code, I apply the same mindset to photography, trails, music, and the
 
 ## 🌍 Online
 
-- About me / Blog: https://igorcodes.dev
+- About me: https://igorcodes.dev
+- Blog: https://blog.igorcodes.dev
 - LinkedIn: https://linkedin.com/in/igorxciv
